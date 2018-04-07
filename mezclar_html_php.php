@@ -1,4 +1,4 @@
-<?php print "hola"<br>; ?>
+<?php print "hola<br>"; ?>
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
   <head>
